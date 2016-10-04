@@ -1,0 +1,37 @@
+/********************
+YOUR STYLES
+*******************/
+
+h1{
+    
+    color: tomato;
+    font-family: avenir next;
+    letter-spacing: .5em;
+  
+}
+
+.char23 {
+    transform: rotate(45deg);
+    display: inline-block;
+}
+
+
+
+/********************
+MEDIA QUERIES
+*******************/
+
+/* Desktop */
+@media (min-width: 1200px) {
+
+}
+
+/* Tablet */
+@media (min-width: 768px) {
+
+}
+
+/* Mobile */
+@media (min-width: 480px) {
+
+}
